@@ -34,10 +34,7 @@ This dashboard provides a single analytical view for comparing product, outlet, 
 
 # 🖼️ Dashboard Preview
 
-```text
-screenshots/
-└── dashboard.png
-```
+![Home Dashboard](screenshots/dashboard.png)
 ---
 
 ## 📋 Dataset
