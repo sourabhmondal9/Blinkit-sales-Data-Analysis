@@ -37,7 +37,7 @@ This dashboard provides a single analytical view for comparing product, outlet, 
 Add your dashboard screenshot here:
 
 ```markdown
-![Blinkit Dashboard](screenshots/dashboard.png)
+screenshots/dashboard.png
 ```
 
 Recommended screenshot:
