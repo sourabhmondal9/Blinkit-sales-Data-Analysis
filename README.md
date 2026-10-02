@@ -34,14 +34,6 @@ This dashboard provides a single analytical view for comparing product, outlet, 
 
 # 🖼️ Dashboard Preview
 
-Add your dashboard screenshot here:
-
-```markdown
-screenshots/dashboard.png
-```
-
-Recommended screenshot:
-
 ```text
 screenshots/
 └── dashboard.png
